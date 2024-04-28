@@ -5,5 +5,7 @@ My week 8 quiz - MINGYUE ZHU
 * I got some inspiration for imaging techniques from the work of Robert Gonsalves. Most of Robert Gonsalves' works present situations similar to Inception through visual dislocation. This visual effect breaks the conventional perception pattern, brings surprises with different perspective shifts and multi-level image displays, and inspires people to think, so that people have new knowledge and feelings about things. I hope to integrate these advantages into my project and innovate the interaction between project artwork and readers through visual dislocation. For example, the color change of different viewing angles is set by visual dislocation.
 * Inspiration source:
 ![Facebook of Rob Gonsalves](https://www.facebook.com/RobGonsalves.Official)
+* Image 1
 ![Image 1](<readmeImages/Image 1.jpg>)
+* Image 2
 ![Image 2](<readmeImages/Image 2.jpg>)

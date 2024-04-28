@@ -12,4 +12,5 @@ My week 8 quiz - MINGYUE ZHU
   * ![Image 2](<readmeImages/Image 2.jpg>)
 
 # Part 2: Coding Technique Exploration
-* [Click the video](https://www.youtube.com/watch?v=vmhRlDyPHMQ&list=PLwUlLzAS3RYow0T9ZXB0IomwB-DyBRTfm/video)
+* [Play](https://www.youtube.com/watch?v=vmhRlDyPHMQ&list=PLwUlLzAS3RYow0T9ZXB0IomwB-DyBRTfm/video)
+![video](readmeImages/video.png)

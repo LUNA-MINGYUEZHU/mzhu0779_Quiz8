@@ -8,10 +8,7 @@ My week 8 quiz - MINGYUE ZHU
 [official page for Rob Gonsalves artwork](https://www.facebook.com/RobGonsalves.Official)
 
 * Example
-![Image 1](<readmeImages/Image 1.jpg>)
-![Image 2](<readmeImages/Image 2.jpg>)
+  * ![Image 1](<readmeImages/Image 1.jpg>)
+  * ![Image 2](<readmeImages/Image 2.jpg>)
 
-```
-
-```
 # Part 2: Coding Technique Exploration

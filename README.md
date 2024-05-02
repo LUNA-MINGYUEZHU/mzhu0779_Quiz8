@@ -12,5 +12,6 @@ My week 8 quiz - MINGYUE ZHU
   * ![Image 2](<readmeImages/Image 2.jpg>)
 
 # Part 2: Coding Technique Exploration
-* [Play](https://www.youtube.com/watch?v=vmhRlDyPHMQ&list=PLwUlLzAS3RYow0T9ZXB0IomwB-DyBRTfm/video)
+* [View tutorial video](https://www.youtube.com/watch?v=vmhRlDyPHMQ&list=PLwUlLzAS3RYow0T9ZXB0IomwB-DyBRTfm/video)
 ![video](<readmeImages/video.png>)
+* This is a code effect in p5.js. The rotation coordinate system is drawn mainly by function rotate (). By changing the rotation Angle of the graph or image, it creates a dimensional change of visual dislocation. At the same time, the built-in variable 'frameCount' is set to track the number of frames drawn, which is used to control the cycle change, so as to achieve the purpose of simple measurement of time or control of animation.
